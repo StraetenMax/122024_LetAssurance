@@ -1,0 +1,52 @@
+mjml
+    mj-head
+        mj-title Lettre Ecosup Assurance - Etudiant Décembre 2024
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-breakpoint(width='480px')/
+        mj-style. 
+            @media (max-width: 480px){
+                .photo{
+                    display: none !important;
+                }
+            }
+    mj-body(background-color='#fcfcfc')
+        //- block content
+        block content
+        //- block sponsors
+        block sponsors
+            include ../includes/_sponsors
+        //- block hero
+        block hero
+            include ../includes/_hero
+        //- block edito
+            block edito Etudiant
+            include ../includes/_edEtudiant
+        //- block reunion BNI
+            block reunion BNI Etudiant
+            include ../includes/_reunEtudiant
+        //- block sofinco Etudiants
+            block sofEtudiants
+            include ../includes/_sofEtudiants
+        //- block partenariat mastEsaEtudiant
+            block master Esa Etudiant
+            include ../includes/_mastEsaEtudiant
+        //- block Handicap
+            block formation handicap
+            include ../includes/_formHandicap
+        //- block agenda
+        block agenda Etudiant 
+            include ../includes/_agEtudiant
+        //- block partenaires
+        block partenaires 
+            include ../includes/_partenaires
+        //- block footer
+        block footer
+            include ../includes/_footer

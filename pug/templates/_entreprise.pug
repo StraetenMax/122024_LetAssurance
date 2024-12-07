@@ -1,0 +1,76 @@
+mjml
+    mj-head
+        mj-title Lettre Ecosup Assurance - Entreprise Décembre 2024
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-breakpoint(width='480px')/
+        mj-style. 
+            @media (max-width: 480px ){
+                .logo{
+                    display: none !important;
+                }
+            }
+    mj-body(background-color='#fcfcfc')
+        //- block content
+        block content
+        //- block sponsors
+        block sponsors
+            include ../includes/_sponsors
+        //- block hero
+        block hero
+            include ../includes/_hero
+        //- block dossier
+            block edito
+            include ../includes/_edito
+            mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block réunion BNI
+            block reunionBNI
+            include ../includes/_reunionBNI
+            mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block Sofinco
+            block Sofinco
+            include ../includes/_sofinco
+            mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block master ESA
+            block masterESA
+            include ../includes/_masterEsa
+            mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block Handicap
+            block handicap
+            include ../includes/_handicap
+            mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block cvbook
+        block cvbook
+            include ../includes/_cvbook
+        mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //- block agenda
+        block agenda 
+            include ../includes/_agenda
+        mj-section(padding="0")
+            mj-column
+                mj-spacer(height="30px")
+        //-block partenaires
+        block partenaires
+            include ../includes/_partenaires
+        //- block footer
+        block footer
+            include ../includes/_footer
