@@ -11,12 +11,13 @@ mjml
         mj-attributes
             mj-all(font-family='Arial, Helvetica, sans-serif')/
             //-font
-            mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
-            mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
-            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
+            mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")
+            mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px")
+            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px")
             //-color
-            mj-class(name="cA" color="")
-            mj-class(name="cG" color="")
+            mj-class(name="cA+2" color="#944694")
+            mj-class(name="cA+1" color="#684092")
+            mj-class(name="bgcG" background-color="#eff1f5")
         mj-breakpoint(width='480px')/
         mj-style. 
             @media (max-width: 480px){
@@ -39,12 +40,9 @@ mjml
             mj-section(padding="0")
             mj-column
                 mj-spacer(height="30px")
-        //- block réunion BNI
-            block reunionBNI
-            include ../includes/_reunionBNI
-            mj-section(padding="0")
-            mj-column
-                mj-spacer(height="30px")
+        //-block réunion BNI
+        block article1
+            include ../includes/entreprise/_article1
         //- block Sofinco
             block Sofinco
             include ../includes/_sofinco
