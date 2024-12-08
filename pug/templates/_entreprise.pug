@@ -1,8 +1,6 @@
 mjml
     mj-head
         mj-title Lettre Ecosup Assurance - Entreprise Décembre 2024
-        mj-attributes
-            mj-all(font-family='Arial, Helvetica, sans-serif')/
         mj-raw.
             <meta name="color-scheme" content="light"/>
             <meta name="supported-color-schemes" content="light"/>
@@ -10,9 +8,18 @@ mjml
             <meta name="format-detection" content="date=no"/>
             <meta name="format-detection" content="address=no"/>
             <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            //-font
+            mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
+            mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
+            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="" font-weight="" line-height="")
+            //-color
+            mj-class(name="cA" color="")
+            mj-class(name="cG" color="")
         mj-breakpoint(width='480px')/
         mj-style. 
-            @media (max-width: 480px ){
+            @media (max-width: 480px){
                 .logo{
                     display: none !important;
                 }
