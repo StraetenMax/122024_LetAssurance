@@ -92,7 +92,7 @@
       </mj-column>
       <mj-column width="30%" padding="8px">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
-        <mj-spacer height="15px"></mj-spacer>
+        <mj-spacer height="12px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#eff1f5" padding-top="20px" padding-bottom="10px">
@@ -103,7 +103,7 @@
     </mj-section>
     <mj-section background-color="#eff1f5" padding-top="0" padding-left="23px" padding-right="23px">
       <mj-column width="33.333333%" padding="2px">
-        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/3yv75mz/jpo14122024.jpg" alt="Affiche du Salon du lycéen et de l'étudiant à Lille les 16, 17 et 18 janvier 2025"/>
+        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du Salon du lycéen et de l'étudiant à Lille les 16, 17 et 18 janvier 2025"/>
       </mj-column>
       <mj-column width="33.333333%" padding="2px">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/3yv75mz/jpo14122024.jpg" alt="Affiche de la journée portes ouvertes du samedi 25 janvier 2025 de 9h30 à 17h"/>
