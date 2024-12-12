@@ -101,7 +101,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="BNI est une association dynamique d'échange d'expériences entre entrepreneurs"/>
+        <mj-image padding="0px" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="BNI est une association dynamique d'échange d'expériences entre entrepreneurs"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
