@@ -1,6 +1,6 @@
 //- Dates rentrée classes
 -
-    const affichesList = [
+    const affichesList1 = [
         {
             'image':'https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg',
             'alt':'Affiche du Salon du lycéen et de l\'étudiant à Lille les 16, 17 et 18 janvier 2025'
@@ -8,6 +8,13 @@
         {
             'image':'https://i.ibb.co/3yv75mz/jpo14122024.jpg',
             'alt':'Affiche de la journée portes ouvertes du samedi 25 janvier 2025 de 9h30 à 17h'
+        }
+    ]
+-
+    const affichesList2 = [
+        {
+            'image':'https://i.ibb.co/3yv75mz/jpo14122024.jpg',
+            'alt':'Affiche de la nocturne portes ouvertes du jeudi 30 janvier 2025 de 17h à 19h'
         },
         {
             'image':'https://i.ibb.co/3yv75mz/jpo14122024.jpg',
@@ -20,7 +27,11 @@ mj-section(background-color="#EDF2F7" padding-top="20px" padding-bottom="10px")
         mj-text(padding='0 25px' align='left' font-size='14px' font-weight='900' color='#944694' line-height='18px' text-transform='uppercase' letter-spacing='1px') À vos Agendas
         mj-text(padding='0 25px' align='left' font-size='20px' font-weight='700' line-height='24px' color='#684092') Salon et Journées Portes Ouvertes
 mj-section(background-color='#EDF2F7' padding-top="0" padding-left="23px" padding-right="23px")
-    mj-group
-        each affiche in affichesList
-            mj-column(width='33.333333%' padding="2px")
-                mj-image(padding='0' border='none' width="480px" src=affiche.image alt=affiche.alt)/
+    mj-group(width="50%")
+        each affiche in affichesList1
+            mj-column(width='50%' padding="2px")
+                mj-image(padding='0' border='none' fluid-on-mobile="true" width="480px" src=affiche.image alt=affiche.alt)/
+    mj-group(width='50%')
+        each affiche in affichesList2
+            mj-column(width='50%' padding="2px")
+                mj-image(padding='0' border='none' fluid-on-mobile="true" width="480px" src=affiche.image alt=affiche.alt)/
