@@ -79,11 +79,12 @@
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Bonjour à tous,</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748"><span style="font-weight:700">Le mot d'ordre de cette rentrée 2024 ? Le partenariat !</span> Cette nouvelle année sera placée sous le signe de la synergie et de la collaboration. Notre ambition est claire : faire rayonner EcoSup Campus à l'échelle régionale.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Pour concrétiser cette ambition, nous multiplions les initiatives pour renforcer nos liens avec les entreprises et les acteurs de l'emploi de notre région. Vous découvrirez dans cette newsletter les fruits de nos efforts en 2024, et nous sommes convaincus que de nouvelles réussites nous attendent.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748"><span style="font-weight:700;">Entreprises et acteurs économiques de la région, votre soutien est précieux !</span> Ensemble, transformons nos ambitions en réalité. N'hésitez pas à nous contacter, nous sommes à votre écoute pour construire les succès de demain.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très bientôt !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers élèves, Chers parents, Chers partenaires... </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">L'année touche à sa fin, et quel parcours nous avons parcouru ensemble ! Remplie de défis mais aussi de belles réussites, cette année aura été riche en émotions, en projets, en réussites et en partenariats !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Je me joins à l'ensemble des équipes d'EcoSup Campus afin de vous remercier pour votre confiance et votre fidélité. Grâce à vous, nous avons pu accompagner nos élèves dans de nouvelles entreprises, créer de nouvelles alliances riches et fructueuses, construire un cursus solide offrant de belles opportunités pour l'avenir de nos jeunes, ... et tant d'autres beaux succès. Janvier nous permettra de faire une édition spéciale sur le bilan de l'année passée.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Alors que nous nous apprêtons à tourner la page 2024, nous regardons vers l'avenir avec optimisme. 2025 s'annonce pleine de promesses et nous avons hâte de partager, encore, de nouveaux projets avec vous...</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">En attendant, toute l'équipe d'EcoSup Campus et moi-même vous souhaitons de joyeuses fêtes de fin d'année, entourés de vos proches. Que cette nouvelle année vous apporte santé, bonheur et réussite !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">A très vite,</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -116,10 +117,9 @@
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Apprentissage</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Baromètre annuel 2024 de l'alternance</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT+0">Le <span style="font-weight:700">Groupe IGENSIA Education</span> dévoile les résultats de son <span style="font-weight:700">baromètre annuel 2024</span>, révélant une tendance positive en faveur de l'alternance en France.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT+0">Réalisé en partenariat avec <span style="font-weight:700">Angie / Opinion Data Intelligence</span>, ce baromètre repose sur une étude d'opinion menée auprès de 1 528 répondants représentatifs de la population française.</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Nouveaux enjeux</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">La place de l'IA dans la Banque Assurance</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT+0">INNOVATION ASSURANCE - Next Content, société d'études spécialisée dans l'analyse des comportements de consommation sur Internet, des nouvelles pratiques numériques et des stratégies digitales des entreprises, nous livre les interviews fascinantes de Nathalie Doré, Directrice Impact et Innovation du bancasssureur BNP Paribas Cardif et de Benoît Beaulieu, Directeur Cybersécurité du spécialiste de l'assurance cyber, sur les enjeux de l'IA dans le secteur de la Banque-Assurance... à découvrir ici !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">À télécharger...</a></mj-text>
       </mj-column>
