@@ -107,9 +107,9 @@
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Découverte métier</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">La Caisse d'Épargne rencontre nos jeunes Bachelors !</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Dans le cadre de leur cursus <span style="font-weight:700;color:#2D3748;">Bachelor Assurance-Banque</span> et du <span style="font-weight:700;color:#2D3748;">module sur les financements des professionnels</span>, nos étudiants ont eu la chance d'assister à une conférence sur ce métier passionnant par deux professionnels reconnus : <span style="font-weight:700;color:#2d3748;">Sophie Vilcot</span>, Directrice de clientèle professionnel Caisse d'Épargne Hauts de France et <span style="font-weight:700;color:#2D3748">Antoine Hochard</span>, Conseiller bancaire professionnel Caisse d'Épargne Hauts de France. C'est également ça étudier chez <span style="font-weight:700;color:#2D3748">EcoSup Campus</span> : rencontrer les acteurs du marché !</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Découverte métier</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">La Caisse d'Épargne rencontre nos jeunes Bachelors !</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Dans le cadre de leur cursus <span style="font-weight:700;color:#2D3748;">Bachelor Assurance-Banque</span> et du <span style="font-weight:700;color:#2D3748;">module sur les financements des professionnels</span>, nos étudiants ont eu la chance d'assister à une conférence sur ce métier passionnant par deux professionnels reconnus : <span style="font-weight:700;color:#2d3748;">Sophie Vilcot</span>, Directrice de clientèle professionnels Caisse d'Épargne Hauts de France et <span style="font-weight:700;color:#2D3748">Antoine Hochard</span>, Conseiller bancaire professionnel Caisse d'Épargne Hauts de France. C'est également ça étudier chez <span style="font-weight:700;color:#2D3748">EcoSup Campus</span> : rencontrer les acteurs du marché !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -131,11 +131,11 @@
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Échanges</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Un atelier nutrition pour les jeunes Dogues, à ÉcoSup Campus !</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">les catégories Intégration et Avenir du centre de formation du LOSC se sont rendues dans les locaux d'Écosup à Tourcoing pour prendre part à un atelier culinaire dans le cadre de leur formation « Gestion de la performance et de la carrière du sportif de haut niveau » mise en place par le LOSC Formation.</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Échanges</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Un atelier nutrition pour les jeunes Dogues, à ÉcoSup Campus !</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">les <span style="font-weight:700;color:#2D3748;">catégories Intégration et Avenir du centre de formation du LOSC</span> se sont rendues dans les locaux d'<span style="font-weight:700;color:#2D3748;">Écosup Campus</span> à Tourcoing pour prendre part à un <span style="font-weight:700;color:#2D3748;">atelier culinaire</span> dans le cadre de leur formation « Gestion de la performance et de la carrière du sportif de haut niveau » mise en place par le <span style="font-weight:700;color:#2D3748;">LOSC Formation</span>.</mj-text>
         <mj-image padding="5px 0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/jgVCTqh/imglarge-LOSC122024.jpg" alt="L'ensemble des personnes (joueurs, staffs, étudiants, enseignants..) qui ont participé à cette opération festive et gastronomique"/>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">Accueillis par la direction de l'<span style="font-weight:700;color:#1D242F;">école Écosup</span>, les Dogues ont tout de suite enfilé leur toque et tablier. Sous la supervision du chef cuisiner de l'établissement scolaire et de Pierre Mastain, nutritionniste au LOSC, ils ont dû imaginer un menu répondant aux besoins d'un footballeur de haut niveau à quelques heures d'un match.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Accueillis par la direction de l'<span style="font-weight:700;color:#2D3748;">école Écosup</span>, les <span style="font-weight:700;color:#2D3748;">Dogues</span> ont tout de suite enfilé leur toque et tablier. Sous la supervision du chef cuisiner de l'établissement scolaire et de <span style="font-weight:700;color:#2D3748;">Pierre Mastain</span>, nutritionniste au LOSC, ils ont dû imaginer un menu répondant aux besoins d'un footballeur de haut niveau à quelques heures d'un match.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
