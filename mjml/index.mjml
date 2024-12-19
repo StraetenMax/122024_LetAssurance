@@ -123,7 +123,7 @@
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">La place de l'IA dans la Banque Assurance</mj-text>
         <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748">INNOVATION ASSURANCE - Next Content</span>, société d'études spécialisée dans l'analyse des comportements de consommation sur Internet, des nouvelles pratiques numériques et des stratégies digitales des entreprises, nous livre les interviews fascinantes de <span style="font-weight:700;color:#2D3748;">Nathalie Doré</span>, Directrice Impact et Innovation du bancasssureur BNP Paribas Cardif et de <span style="font-weight:700;color:#2D3748;">Benoît Beaulieu</span>, Directeur Cybersécurité du spécialiste de l'assurance cyber, sur les <span style="font-weight:700;color:#2D3748;">enjeux de l'IA</span> dans le <span style="font-weight:700;color:#2D3748;">secteur de la Banque-Assurance</span>... à découvrir !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400;" target="_blank">À télécharger...</a></mj-text>
+        <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/place-ia-banque-assurance" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
@@ -137,6 +137,8 @@
         <mj-text padding="5px 0" mj-class="T+0 cT-0">les <span style="font-weight:700;color:#2D3748;">catégories Intégration et Avenir du centre de formation du LOSC</span> se sont rendues dans les locaux d'<span style="font-weight:700;color:#2D3748;">Écosup Campus</span> à Tourcoing pour prendre part à un <span style="font-weight:700;color:#2D3748;">atelier culinaire</span> dans le cadre de leur formation « Gestion de la performance et de la carrière du sportif de haut niveau » mise en place par le <span style="font-weight:700;color:#2D3748;">LOSC Formation</span>.</mj-text>
         <mj-image padding="5px 0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/jgVCTqh/imglarge-LOSC122024.jpg" alt="L'ensemble des personnes (joueurs, staffs, étudiants, enseignants..) qui ont participé à cette opération festive et gastronomique"/>
         <mj-text padding="5px 0" mj-class="T+0 cT-0">Accueillis par la direction de l'<span style="font-weight:700;color:#2D3748;">école Écosup</span>, les <span style="font-weight:700;color:#2D3748;">Dogues</span> ont tout de suite enfilé leur toque et tablier. Sous la supervision du chef cuisiner de l'établissement scolaire et de <span style="font-weight:700;color:#2D3748;">Pierre Mastain</span>, nutritionniste au LOSC, ils ont dû imaginer un menu répondant aux besoins d'un footballeur de haut niveau à quelques heures d'un match.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://urls.fr/2o9a_2" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -153,7 +155,7 @@
     <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="10px">
       <mj-column>
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Salon et Journées Portes Ouvertes</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="0" padding-left="23px" padding-right="23px">
@@ -162,15 +164,15 @@
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du Salon du lycéen et de l'étudiant à Lille les 16, 17 et 18 janvier 2025"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/3yv75mz/jpo14122024.jpg" alt="Affiche de la journée portes ouvertes du samedi 25 janvier 2025 de 9h30 à 17h"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la journée portes ouvertes du samedi 25 janvier 2025 de 9h30 à 17h"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/3yv75mz/jpo14122024.jpg" alt="Affiche de la nocturne portes ouvertes du jeudi 30 janvier 2025 de 17h à 19h"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/fQMvYww/img-JPO30012025.jpg" alt="Affiche de la nocturne portes ouvertes du jeudi 30 janvier 2025 de 17h à 19h"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/3yv75mz/jpo14122024.jpg" alt="Affiche de la nocturne portes ouvertes du jeudi 30 janvier 2025 de 17h à 19h"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/SsvKfVW/img-Job-Dating17042025.jpg" alt="Présentation du job dating qui aura lieu le jeudi 17 avril 2025 de 14h à 17h30"/>
         </mj-column>
       </mj-group>
     </mj-section>
