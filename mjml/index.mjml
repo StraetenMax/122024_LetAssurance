@@ -71,19 +71,20 @@
         <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Décembre 2024  </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="0px">
+    <mj-section background-color="#E7ECf2" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/517Cws3/video-Bandeau102024.gif" alt="l'univers de l'assurance avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/KKZrRdB/news-Bandeau122024.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, vous souhaite de joyeuses fêtes de fin d'année"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
+    <mj-section background-color="#E7ECf2" padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
-        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Bonjour à tous,</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748"><span style="font-weight:700">Le mot d'ordre de cette rentrée 2024 ? Le partenariat !</span> Cette nouvelle année sera placée sous le signe de la synergie et de la collaboration. Notre ambition est claire : faire rayonner EcoSup Campus à l'échelle régionale.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Pour concrétiser cette ambition, nous multiplions les initiatives pour renforcer nos liens avec les entreprises et les acteurs de l'emploi de notre région. Vous découvrirez dans cette newsletter les fruits de nos efforts en 2024, et nous sommes convaincus que de nouvelles réussites nous attendent.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748"><span style="font-weight:700;">Entreprises et acteurs économiques de la région, votre soutien est précieux !</span> Ensemble, transformons nos ambitions en réalité. N'hésitez pas à nous contacter, nous sommes à votre écoute pour construire les succès de demain.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très bientôt !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" mj-class="T+2 cA+2" text-transform="uppercase">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Chers élèves, Chers parents, Chers partenaires... </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">L'année touche à sa fin, et quel chemin nous avons parcouru ensemble ! Remplie de défis mais aussi de <span style="font-weight:700;color:#2D3748;">belles réussites</span>, cette année aura été riche en émotions, en projets, en réussites et en partenariats !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Je me joins à l'ensemble des <span style="font-weight:700;color:#2D3748;">équipes d'EcoSup Campus</span> afin de vous remercier pour votre confiance et votre fidélité. Grâce à vous, nous avons pu <span style="font-weight:700;color:#2D3748">accompagner nos étudiants</span> dans de nouvelles entreprises, créer de nouvelles alliances riches et fructueuses, construire un cursus solide offrant de belles opportunités pour l'avenir de nos jeunes... et tant d'autres beaux succès. Janvier nous permettra de faire une édition spéciale sur le bilan de l'année passée.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">Alors que nous nous apprêtons à tourner la page 2024, <span style="font-weight:700;color:#2D3748;">nous regardons vers l'avenir avec optimisme</span>. 2025 s'annonce pleine de promesses et nous avons hâte de partager, encore, de nouveaux projets avec vous...</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">En attendant, toute l'équipe d'<span style="font-weight:700;color:#2D3748;">EcoSup Campus et moi-même vous souhaitons de joyeuses fêtes de fin d'année</span>, entourés de vos proches. Que cette nouvelle année vous apporte santé, bonheur et réussite !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">A très vite,</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
