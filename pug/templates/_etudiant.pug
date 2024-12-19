@@ -1,8 +1,6 @@
 mjml
     mj-head
         mj-title Lettre Ecosup Assurance - Etudiant Décembre 2024
-        mj-attributes
-            mj-all(font-family='Arial, Helvetica, sans-serif')/
         mj-raw.
             <meta name="color-scheme" content="light"/>
             <meta name="supported-color-schemes" content="light"/>
@@ -10,6 +8,17 @@ mjml
             <meta name="format-detection" content="date=no"/>
             <meta name="format-detection" content="address=no"/>
             <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            //-font
+            mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")
+            mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px")
+            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px")
+            //-color
+            mj-class(name="cA+2" color="#944694")
+            mj-class(name="cA+1" color="#684092")
+            mj-class(name="cT-0" color="#45546e")
+            mj-class(name="bgcG" background-color="#eff1f5")
         mj-breakpoint(width='480px')/
         mj-style. 
             @media (max-width: 480px){
@@ -29,18 +38,18 @@ mjml
         //- block edito
         block edito Etudiant
             include ../includes/etudiant/_edito
-        //- block reunion BNI
-            block reunion BNI Etudiant
-            include ../includes/_reunEtudiant
-        //- block sofinco Etudiants
-            block sofEtudiants
-            include ../includes/_sofEtudiants
-        //- block partenariat mastEsaEtudiant
-            block master Esa Etudiant
-            include ../includes/_mastEsaEtudiant
-        //- block Handicap
-            block formation handicap
-            include ../includes/_formHandicap
+        //- block foot Losc
+        block foot LOSC
+            include ../includes/entreprise/_footLoos
+        //- block Caisse d'Epargne
+        block caisseEpargne
+            include ../includes/entreprise/_caisseEpargne
+        //- block partenariat grafton
+        block grafton
+            include ../includes/entreprise/_grafton
+        //- block IA
+        block IA
+            include ../includes/entreprise/_ia
         //- block agenda
         block agenda
             include ../includes/_agenda
