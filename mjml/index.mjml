@@ -87,7 +87,7 @@
         <mj-text padding-top="5px" padding-bottom="5px" mj-class="T+0 cT-0" font-style="italic">A très vite,</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="20px 17px">
+    <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
         <mj-image padding="0" width="480px" border="none" src="https://i.ibb.co/kGQMzzr/logoLOSC.jpg" alt="logo du Club de football le LOSC Lille"/>
       </mj-column>
@@ -128,7 +128,7 @@
         <mj-text padding="5px 0" mj-class="cT-0 T+0">Un grand merci également à <span style="font-weight:700;color:#2D3748">Benoît Salmon</span>, directeur de l'école EcoSup Campus, <span style="font-weight:700;color:#2D3748">Margaux Gilles</span>, responsable des relations entreprises, <span style="font-weight:700;color:#2D3748">Julie Delelys</span>, chargée de recrutement Assurance/Banque, <span style="font-weight:700;color:#2D3748">Rachid Chiheb</span>, nouveau responsable de l'agence Grafton Recruitment Lille d'avoir rendu cet échange riche de projets et de perspectives.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 17px">
+    <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/m9c6NqR/nathalie-Dore.jpg" alt="Nathalie DORÉ, directrice Impact et Innovation du bancassureur BNP Paribas Cardif"/>
       </mj-column>
@@ -139,6 +139,11 @@
         <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748">INNOVATION ASSURANCE - Next Content</span>, société d'études spécialisée dans l'analyse des comportements de consommation sur Internet, des nouvelles pratiques numériques et des stratégies digitales des entreprises, nous livre les interviews fascinantes de <span style="font-weight:700;color:#2D3748;">Nathalie Doré</span>, Directrice Impact et Innovation du bancasssureur BNP Paribas Cardif et de <span style="font-weight:700;color:#2D3748;">Benoît Beaulieu</span>, Directeur Cybersécurité du spécialiste de l'assurance cyber, sur les <span style="font-weight:700;color:#2D3748;">enjeux de l'IA</span> dans le <span style="font-weight:700;color:#2D3748;">secteur de la Banque-Assurance</span>... à découvrir !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 0" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/place-ia-banque-assurance" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="10px">
